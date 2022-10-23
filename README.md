@@ -2,7 +2,7 @@
 
 Live Demo: https://gilded-tarsier-e8a172.netlify.app
 
-These project was done following adrianhajdin's tutorial. https://www.youtube.com/watch?v=XxXyfkrP298
+This project was done following adrianhajdin's tutorial. https://www.youtube.com/watch?v=XxXyfkrP298
 
 ![image](https://user-images.githubusercontent.com/106253049/197350407-03fce2ab-9b74-45be-ae94-149165c0e6b2.png)
 
